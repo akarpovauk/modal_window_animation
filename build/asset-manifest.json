@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modal_window_animation/static/css/main.7e7d3b23.css",
+    "main.js": "/modal_window_animation/static/js/main.ed0fd18c.js",
+    "index.html": "/modal_window_animation/index.html",
+    "main.7e7d3b23.css.map": "/modal_window_animation/static/css/main.7e7d3b23.css.map",
+    "main.ed0fd18c.js.map": "/modal_window_animation/static/js/main.ed0fd18c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7d3b23.css",
+    "static/js/main.ed0fd18c.js"
+  ]
+}
